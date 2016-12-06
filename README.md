@@ -9,8 +9,8 @@
 ## 멤버
  역할 | 이름
  --- | ---
- Leader | 장승빈
- Supporters | 정정일 ([GDG Incheon]())
+ Leader | [장승빈](http://sbsoft.kr)
+ Supporters | [정정일 (GDG Incheon)](https://plus.google.com/u/0/communities/104783014618153871181)
  Member | 김길채, 이종현, 윤상현, 박기현
 
 ## 진행 내용
@@ -29,8 +29,8 @@
 - [npm 공식 홈페이지](https://www.npmjs.com/)
 - [express 공식 홈페이지](http://expressjs.com/) | [한국어 페이지](http://expressjs.com/ko/)
 - [Heroku 공식 홈페이지](https://www.heroku.com/)
-- **~~~**
+**~~~**
 - [샵투월드's 동영상 강의](https://www.youtube.com/playlist?list=PLsGh7Wc318khZ23kG3jliEvyKkHYe63pq)
 - [생활코딩's 동영상 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMBnrdKRODJmbH7UZ2A48LBK) | [생활코딩 사이트](https://opentutorials.org/module/938)
 - [T아카데미's 온라인 강의](https://tacademy.sktechx.com/live/player/listOnline.action)
-- ** [Leader's app](https://node.sbsoft.kr/) **
+- **[Leader's app](https://node.sbsoft.kr/)**
