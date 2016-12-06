@@ -1,5 +1,5 @@
-# 부평 Node.js 스터디 (2016)
 :octocat: [ owo-study/nodejs2016 ]
+# 부평 Node.js 스터디 (2016)
 
 ## 스터디 개요
 - nodejs '생초보'에서 '초보'로 가는 스터디
@@ -14,8 +14,8 @@
  Member | 김길채, 이종현, 윤상현, 박기현
 
 ## 진행 내용
-- 1주차 : nodejs 실습 환경 구축 / JavaScript 기초 문법 정리
-- 2주차 : 내장 모듈 사용 방법 / npm 사용자 모듈 설치
+- [1주차 : nodejs 실습 환경 구축 / JavaScript 기초 문법 정리](https://github.com/owo-study/nodejs2016/blob/master/1weeks/1weeks.pdf)
+- [2주차 : 내장 모듈 사용 방법 / npm 사용자 모듈 설치](https://github.com/owo-study/nodejs2016/blob/master/2weeks/2weeks.pdf)
 - 3주차 : (예정) npm 활용 / express로 웹서버 구축하기
 - 4주차 : (예정) express 활용 및 heroku에 업로드 운영하기
 
@@ -29,8 +29,7 @@
 - [npm 공식 홈페이지](https://www.npmjs.com/)
 - [express 공식 홈페이지](http://expressjs.com/) | [한국어 페이지](http://expressjs.com/ko/)
 - [Heroku 공식 홈페이지](https://www.heroku.com/)
-**~~~**
 - [샵투월드's 동영상 강의](https://www.youtube.com/playlist?list=PLsGh7Wc318khZ23kG3jliEvyKkHYe63pq)
 - [생활코딩's 동영상 강의](https://www.youtube.com/playlist?list=PLuHgQVnccGMBnrdKRODJmbH7UZ2A48LBK) | [생활코딩 사이트](https://opentutorials.org/module/938)
 - [T아카데미's 온라인 강의](https://tacademy.sktechx.com/live/player/listOnline.action)
-- **[Leader's app](https://node.sbsoft.kr/)**
+- **[Leader's study app](https://node.sbsoft.kr/)**
