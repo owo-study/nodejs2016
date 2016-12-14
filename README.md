@@ -1,4 +1,4 @@
-:octocat: [ owo-study/nodejs2016 ]
+:octocat: [owo-study/nodejs2016](https://github.com/owo-study/nodejs2016)
 # 부평 Node.js 스터디 (2016)
 
 ## 스터디 개요
