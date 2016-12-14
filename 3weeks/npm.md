@@ -64,6 +64,7 @@ npm install socket.io
 
 ### package.json 파일을 이용한 관리
 - package.json 파일의 구조
+
 > 추천링크
 > - [공식 홈페이지 가이드](https://docs.npmjs.com/files/package.json)
 > - [package.json으로 npm 의존성 모듈 관리하기](https://blog.outsider.ne.kr/665)
