@@ -29,6 +29,7 @@ npm rm [패키지명]
 ```
 
 ### 업데이트 (npm update)
+![npm -h](./npm04.png)
 ```shell
 npm update [패키지명]
 npm up [패키지명]
