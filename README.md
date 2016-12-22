@@ -17,10 +17,10 @@
 - 1주차 : [nodejs 실습 환경 구축 / JavaScript 기초 문법 정리](https://github.com/owo-study/nodejs2016/blob/master/1weeks/1weeks.pdf)
 - 2주차 : [내장 모듈 사용 방법 / npm 사용자 모듈 설치](https://github.com/owo-study/nodejs2016/blob/master/2weeks/2weeks.pdf)
 - 3주차 : [Express Module](https://github.com/owo-study/nodejs2016/blob/master/3weeks/express.md) / [npm 활용하기](https://github.com/owo-study/nodejs2016/blob/master/3weeks/npm.md)
-- 4주차 : [heroku에 업로드하기](https://github.com/owo-study/nodejs2016/blob/master/4weeks/4week.md) / [mysql 모듈](https://github.com/owo-study/nodejs2016/blob/master/4weeks/mysql.md)
+- 4주차 : [heroku에 업로드하기](https://github.com/owo-study/nodejs2016/blob/master/4weeks/4week.pdf) / [mysql 모듈](https://github.com/owo-study/nodejs2016/blob/master/4weeks/mysql.md)
 
 ### 프로젝트 (예정)
-- 칸반 보드 ( express / mongodb / bootstrap )
+- [칸반 보드 ( express / mongodb / bootstrap )](https://github.com/owo-study/nodejs2016/blob/master/kanban)
 - socket.io를 이용한 채팅 구축
 - 게시판 만들기
 

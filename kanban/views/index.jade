@@ -1,0 +1,59 @@
+extends layout
+
+block content
+  div.container
+    div.jumbotron
+      h1 MY KANBAN BOARD
+      p TO-DO Management System
+      div.form-group
+        form(action='/createTask', method='post')
+          div.col-xs-9
+            input(type='test' name='contents' class='form-control' placeholder='할일을 입력하세요')
+          div.col-xs-3
+            button(type='submit' class='btn btn-success btn-block') 할일 추가
+    div.row
+      div.col-lg-4
+        ul.list-group
+          li.list-group-item.active 할일
+            span.badge= todoTasks.length
+          each val in todoTasks
+            div.input-group
+              li.list-group-item= val
+              div.input-group-btn
+                form(action='/updateTask' method='post')
+                  input(type='hidden' name='status' value='INPROG')
+                  button(type='submit' class='btn btn-info' name='contents' value= val) <strong> &gt; </strong>
+      div.col-lg-4
+        ul.list-group
+          li.list-group-item.active 진행중
+            span.badge= inProgTasks.length
+          each val in inProgTasks
+            div.input-group
+              li.list-group-item= val
+              div.input-group-btn
+                form(action='/updateTask' method='post')
+                  input(type='hidden' name='status' value='DONE')
+                  button(type='submit' class='btn btn-info' name='contents' value= val) <strong> &gt; </strong>
+      div.col-lg-4
+        ul.list-group
+          li.list-group-item.active 완료
+            span.badge= doneTasks.length
+          each val in doneTasks
+            div.input-group
+              li.list-group-item= val
+              div.input-group-btn
+                form(action='/removeTask' method='post')
+                  button(type='submit' class='btn btn-danger' value= val) <strong> D </strong>
+                  
+  div(id='footer')
+    ul
+      li <a href="https://api.jquery.com/" target="blank">jQuery</a> | &nbsp;
+      li <a href="http://getbootstrap.com/" target="blank">bootstrap</a> | &nbsp;
+      li <a href="http://expressjs.com/ko/" target="blank">express</a> | &nbsp;
+      li <a href="https://github.com/pugjs/pug" target="blank">pug(jade)</a> | &nbsp;
+      li <a href="https://github.com/Automattic/mongoose" target="blank">mongoose</a> | &nbsp;
+      li <a href="https://github.com/Automattic/mongoose" target="blank">mongoose</a> | &nbsp;
+      li <a href="http://heroku.com" target="blank">heroku</a> | &nbsp;
+      li <a href="http://sbsoft.kr" target="blank">SBSoft</a>
+                  
+                  
