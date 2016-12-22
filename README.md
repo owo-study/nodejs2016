@@ -14,15 +14,15 @@
  Member | 김길채, 이종현, 윤상현, 박기현
 
 ## 진행 내용
-- [1주차 : nodejs 실습 환경 구축 / JavaScript 기초 문법 정리](https://github.com/owo-study/nodejs2016/blob/master/1weeks/1weeks.pdf)
-- [2주차 : 내장 모듈 사용 방법 / npm 사용자 모듈 설치](https://github.com/owo-study/nodejs2016/blob/master/2weeks/2weeks.pdf)
-- 3주차 : (예정) npm 활용 / express로 웹서버 구축하기
-- 4주차 : (예정) express 활용 및 heroku에 업로드 운영하기
+- 1주차 : [nodejs 실습 환경 구축 / JavaScript 기초 문법 정리](https://github.com/owo-study/nodejs2016/blob/master/1weeks/1weeks.pdf)
+- 2주차 : [내장 모듈 사용 방법 / npm 사용자 모듈 설치](https://github.com/owo-study/nodejs2016/blob/master/2weeks/2weeks.pdf)
+- 3주차 : [Express Module](https://github.com/owo-study/nodejs2016/blob/master/3weeks/express.md) / [npm 활용하기](https://github.com/owo-study/nodejs2016/blob/master/3weeks/npm.md)
+- 4주차 : [heroku에 업로드하기](https://github.com/owo-study/nodejs2016/blob/master/4weeks/4week.md) / [mysql 모듈](https://github.com/owo-study/nodejs2016/blob/master/4weeks/mysql.md)
 
-## 기타
-- 프로젝트 (예정)
-  - 게시판 만들기
-  - socket.io를 이용한 채팅 구축
+### 프로젝트 (예정)
+- 칸반 보드 ( express / mongodb / bootstrap )
+- socket.io를 이용한 채팅 구축
+- 게시판 만들기
 
 ## Node.js Bookmark's
 - [nodejs 공식 홈페이지](https://nodejs.org/) | [한국어 페이지](https://nodejs.org/ko/)
